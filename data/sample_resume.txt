@@ -1,0 +1,5 @@
+I am a Computer Science graduate with experience in Python, SQL,
+Machine Learning, and Flask.
+
+I have built ML models for prediction and performed data analysis.
+I am familiar with Git and basic Docker usage.
