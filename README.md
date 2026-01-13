@@ -54,3 +54,28 @@ This ensures safety, control, and real-world usability.
 
 ## 📂 Project Structure
 
+```text
+ai-job-agent/
+│
+├── agents/
+│   ├── resume_agent.py
+│   ├── jd_agent.py
+│   ├── fit_agent.py
+│   ├── guidance_agent.py
+│   ├── application_agent.py
+│
+├── data/
+│   ├── sample_resume.txt
+│   ├── sample_jd.txt
+│
+├── main.py
+├── requirements.txt
+└── README.md
+Relay.app (workflow orchestration)
+
+## 🔗 Relay Workflow
+👉 https://run.relay.app/shared/ai-job-agent-3yUYwFBRBxXE
+
+## ▶️ How to Run
+```bash
+python main.py
